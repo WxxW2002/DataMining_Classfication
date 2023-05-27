@@ -1,17 +1,19 @@
 DataMining_Classfication
 ======
 
-NIS3317 数据挖掘，分类小作业，Dry Beans 数据集分类
+NIS3317 数据挖掘，分类小作业，[Dry Beans 数据集](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset)分类
 
 文件结构
 -----
-* `dataset`：数据集
+* `dataset`：数据集目录
   * `Dry_Bean_Dataset.arff`/`Dry_Bean_Dataset.txt`/`Dry_Bean_Dataset.xlsx`：原始数据集
   * `pre_data.csv`：处理后的数据集
   * `pre_train_data.csv`：处理后的训练集
   * `pre_test_data.csv`：处理后的测试集
-* `src`：源代码及运行结果
-* `docs`：报告文档
+* `src`：源代码目录
+  `drybeans.ipynb`: 源代码及运行结果
+* `docs`：报告文档目录
+  `DryBeans_classification.pdf`：报告文档
 * `README`：说明文档
 
 各阶段数据集
